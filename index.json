@@ -1,1 +1,106 @@
-[{"uname":"nha_nha1121","token":"6333316262:AAFWAeYOrYH61eQ1ehyY4QSHqKBAU_hCmOM","id":"0","gp":"@viper_track","fchack":""}]
+[
+    {
+        "dia": 11,
+        "price": "900 ks"
+    }, 
+    {
+        "dia": 22,
+        "price": "1750 ks"
+    },
+    {
+        "dia": 56,
+        "price": "4000 ks"
+    }, 
+    {
+        "dia": 86,
+        "price": "5250 ks"
+    },     
+    {
+        "dia": 112,
+        "price": "7700 ks"
+    },     
+    {
+        "dia": 172,
+        "price": "10250 ks"
+    },     
+    {
+        "dia": 257,
+        "price": "15150 ks"
+    },    
+    {
+        "dia": 279,
+        "price": "16700 ks"
+    },    
+    {
+        "dia": 343,
+        "price": "20200 ks"
+    },
+    {
+        "dia": 429,
+        "price": "25300 ks"
+    },
+    {
+        "dia": 514,
+        "price": "30000 ks"
+    },
+    {
+        "dia": 600,
+        "price": "35000 ks"
+    },
+    {
+        "dia": 706,
+        "price": "40500 ks"
+    },
+    {
+        "dia": 878,
+        "price": "50500 ks"
+    },
+    {
+        "dia": 963,
+        "price": "55300 ks"
+    },
+    {
+        "dia": 1049,
+        "price": "60600 ks"
+    },
+    {
+        "dia": 1135,
+        "price": "65500 ks"
+    },
+    {
+        "dia": 1220,
+        "price": "70300 ks"
+    },
+    {
+        "dia": 1412,
+        "price": "80480 ks"
+    },
+    {
+        "dia": 2185,
+        "price": "122000 ks"
+    },
+    {
+        "dia": 3688,
+        "price": "202000 ks"
+    },
+    {
+        "dia": 4394,
+        "price": "242000 ks"
+    },
+    {
+        "dia": 5532,
+        "price": "306000 ks"
+    },
+    {
+        "dia": 6238,
+        "price": "351000 ks"
+    },
+    {
+        "dia": 8433,
+        "price": "471000 ks"
+    },
+    {
+        "dia": 9288,
+        "price": "515000 ks"
+    }
+]
