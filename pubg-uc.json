@@ -1,26 +1,26 @@
 [
   {
     "uc" : 63,
-    "price" : "3300 ks"
+    "uprice" : "3300 ks"
   },
   {
     "uc" : 325,
-    "price" : "15800 ks"
+    "uprice" : "15800 ks"
   },
   {
     "uc" : 660,
-    "price" : "32000 ks"
+    "uprice" : "32000 ks"
   },
   {
     "uc" : 1800,
-    "price" : "78550 ks"
+    "uprice" : "78550 ks"
   },
   {
     "uc" : 3850,
-    "price" : "156000 ks"
+    "uprice" : "156000 ks"
   },
   {
     "uc" : 8100,
-    "price" : "312000 ks"
+    "uprice" : "312000 ks"
   }
 ]
